@@ -1,4 +1,4 @@
-# -flag-validator
+# flag-validator
 # 💳 Checkout de Pagamento com Detecção de Bandeira de Cartão
 
 Este é um projeto de checkout de pagamento que detecta automaticamente a bandeira do cartão de crédito com base nos primeiros dígitos inseridos. O sistema utiliza HTML, CSS e JavaScript para validar e exibir a bandeira do cartão em tempo real.
